@@ -1,6 +1,6 @@
 # Backbone::Marionette::Rails
 
-TODO: Write a gem description
+A Backbone.Marionette wrapper for rails.
 
 ## Installation
 
@@ -18,12 +18,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Import Backbone.Marionette into your mainfeast.
+  
+    #= require backbone.marionette
 
-## Contributing
+or
 
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+    //= require backbone.marionette
+
+
+Visit [Marionette Home Page](https://github.com/marionettejs/backbone.marionette) for more info.
